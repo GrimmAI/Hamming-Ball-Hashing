@@ -3,6 +3,7 @@
 # datasets
 Below is the directory structure for the datasets:
 
+```text
 Hamming-Ball-Hashing/
 ├── category_level_retrieval/          
 │   └── dataset/
@@ -27,5 +28,6 @@ Hamming-Ball-Hashing/
         │   └── rparis6k_db.npy
         │
         └── 1mdb.npy
+```
 
 
